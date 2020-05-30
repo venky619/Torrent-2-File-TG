@@ -6,7 +6,7 @@ A Telegram Torrent (and youtube-dl) Leecher based on [Pyrogram](https://github.c
 
 ### The Easy Way
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template= https://github.com/Ankith09/Torrent-2-File-TG)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=
 
 ### The Legacy Way
 Simply clone the repository and run the main file:
