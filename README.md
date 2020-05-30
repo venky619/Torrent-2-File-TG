@@ -6,13 +6,13 @@ A Telegram Torrent (and youtube-dl) Leecher based on [Pyrogram](https://github.c
 
 ### The Easy Way
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Ankith09/Torrent-2-File-TG)
 
 ### The Legacy Way
 Simply clone the repository and run the main file:
 
 ```sh
-git clone https://github.com/Aid-3n/Torrent-2-File-TG
+git clone https://github.com/Ankith09/Torrent-2-File-TG
 cd Torrent-2-File-TG
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
